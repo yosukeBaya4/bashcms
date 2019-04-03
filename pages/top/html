@@ -1,0 +1,28 @@
+<h1>bashCMS</h1>
+
+<h2>what is bashCMS?</h2>
+
+<p>
+bashCMS is a not complicated CMS made by bash
+there are no special packages.
+Read and feel free to make by yourself.
+</p>
+
+<h2>Other</h2>
+<p>
+Image character of bashCMS is chinjyu-chan
+<img src="chinjyu.jpg" alt="chinjyu-chan">
+</p>
+
+<p>
+Read there to understand how to use. <a href="dummy.pdf" target="_blank">dummy.pdf</a>
+</p>
+
+<h2>2nd Link to other site</h2>
+<li>
+  <a href="http://www.usptomo.com" target="_blank">USPtomonokai</a>
+</li>
+
+<p>
+Details of the bashCMS is here <a href="/whats_bashCMS">What's bashCMS?</a>
+</p>
